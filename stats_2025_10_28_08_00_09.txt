@@ -1,0 +1,11 @@
+=== Pods/Containers 統計（依 NS_PATTERN 過濾 namespace，但未/已過濾 phase）===
+未過濾（不看狀態）Pods 總數：        381
+未過濾（不看狀態）Containers 總數：  466
+
+已過濾（僅 Running）Pods 總數：        328
+已過濾（僅 Running）Containers 總數：  402
+
+被過濾掉的 Pods 數量：        53
+被過濾掉的 Containers 數量：  64
+
+以 root 執行的 Containers 數量： 135
